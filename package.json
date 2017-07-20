@@ -1,0 +1,24 @@
+{
+  "name": "opt-is",
+  "version": "0.1.0",
+  "description": "Javascript type validation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpptung/opt-is.git"
+  },
+  "keywords": [
+    "util",
+    "type",
+    "test"
+  ],
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benpptung/opt-is/issues"
+  },
+  "homepage": "https://github.com/benpptung/opt-is#readme"
+}
